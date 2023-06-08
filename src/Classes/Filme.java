@@ -1,3 +1,4 @@
+package Classes;
 
 public class Filme {
 	private String titulo;
@@ -7,5 +8,5 @@ public class Filme {
 	private String diretor;
 	private String protagonistas;
 	private String capa;
-	private Seção seçao;
+	private Seçao seçao;
 }

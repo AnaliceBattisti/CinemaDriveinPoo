@@ -1,4 +1,4 @@
-
+package Classes;
 public class Ingresso {
 	private String qrcode;
 	private String dataEmissao;
